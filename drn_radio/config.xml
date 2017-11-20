@@ -33,4 +33,5 @@
     </platform>
     <preference name="android-minSdkVersion" value="15" />
     <plugin name="cordova-plugin-admob-simple" spec="~3.3.4" />
+    <engine name="android" spec="~6.3.0" />
 </widget>
