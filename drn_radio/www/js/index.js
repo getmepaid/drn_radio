@@ -74,7 +74,7 @@ function initAd(){
             var admobid = ( /(android)/i.test(navigator.userAgent) ) ? ad_units.android : ad_units.ios;
  
             window.plugins.AdMob.setOptions( {
-                publisherId: pub-7251676025279948,
+                publisherId: admobid.banner,
                 interstitialAdId: admobid.interstitial,
                 adSize: window.plugins.AdMob.AD_SIZE.SMART_BANNER,	//use SMART_BANNER, BANNER, LARGE_BANNER, IAB_MRECT, IAB_BANNER, IAB_LEADERBOARD 
                 bannerAtTop: true, // set to true, to put banner at top 
