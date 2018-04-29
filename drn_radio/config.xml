@@ -28,10 +28,6 @@
     <platform name="ios">
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
-        <icon gap:platform="ios" height="57" src="res/icon/ios/icon.png" width="57" />
-<icon gap:platform="ios" height="72" src="res/icon/ios/icon.png" width="72" />
-<icon gap:platform="ios" height="114" src="res/icon/ios/icon.png" width="114" />
-<icon gap:platform="ios" height="144" src="res/icon/ios/icon.png" width="144" />
     </platform>
   <engine name="android" spec="^6.3.0" />
      <preference name="android-minSdkVersion" value="15" />
