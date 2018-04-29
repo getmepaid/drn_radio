@@ -1,0 +1,21 @@
+{
+    "EventKit.framework": 2,
+    "EventKitUI.framework": 2,
+    "StoreKit.framework": 2,
+    "AdSupport.framework": 2,
+    "MessageUI.framework": 2,
+    "AVFoundation.framework": 2,
+    "Foundation.framework": 2,
+    "UIKit.framework": 2,
+    "SystemConfiguration.framework": 2,
+    "AudioToolbox.framework": 2,
+    "MediaPlayer.framework": 2,
+    "GLKit.framework": 2,
+    "SafariServices.framework": 2,
+    "CoreMotion.framework": 2,
+    "CoreBluetooth.framework": 1,
+    "CoreMedia.framework": 1,
+    "CoreTelephony.framework": 1,
+    "CoreVideo.framework": 1,
+    "OpenGLES.framework": 1
+}
