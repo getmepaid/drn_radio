@@ -32,7 +32,7 @@ var app = {
 	//admob.showBanner(admob.BannerSize.BANNER, admob.Position.BOTTOM_APP);
 
  //inAppBrowserbRef = cordova.InAppBrowser.open('https://electrostar.ovplatform.tk', '_self', 'location=no,toolbar=no');
-     	var   inAppBrowserbRef = cordova.InAppBrowser.open('http://drn.fm/drn/', '_self', 'location=no,toolbar=no','clearcache=yes','clearsessioncache=yes','zoom=no','hardwareback=no');
+     	var   inAppBrowserbRef = cordova.InAppBrowser.open('http://drn.fm/drn_radioo/', '_self', 'location=no,toolbar=no','clearcache=yes','clearsessioncache=yes','zoom=no','hardwareback=no');
         /*inAppBrowserbRef.addEventListener('loadstart', inAppBrowserbLoadStart);
         inAppBrowserbRef.addEventListener('loadstop', inAppBrowserbLoadStop);
         inAppBrowserbRef.addEventListener('loaderror', inAppBrowserbLoadError);
